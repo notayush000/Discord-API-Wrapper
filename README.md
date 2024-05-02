@@ -1,5 +1,5 @@
 
-# Discord API Wrapper
+# API Wrapper for Discord written in Python
 
 This Python API wrapper for Discord is specifically designed to facilitate the implementation of Slash commands and provides essential functionalities to get your Discord bot operational.
 
